@@ -1,0 +1,9 @@
+kalshi-sdk==21.0.0
+nflreadpy==0.1.5
+numpy==2.5.4
+pandas==3.0.6
+polars==2.0.0
+polars-runtime-32==2.0.0
+pyarrow==26.0.0
+python-dotenv==1.2.4
+requests==2.34.2
